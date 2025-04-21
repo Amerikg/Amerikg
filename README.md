@@ -1,4 +1,4 @@
-<h1 align="center">🌙 Bienvenida a mi rincón digital 🌿</h1>
+<h1 align="center">🌙 Bienvenid@ a mi rincón digital 🌿</h1>
 
 <p align="center">
   Desarrolladora ✨ Exploradora de historias ✨ Creadora de mundos digitales
@@ -14,7 +14,7 @@ Disfruto crear experiencias que mezclan lógica y arte: desde aplicaciones funci
 También me encanta leer y escribir sobre libros que me transportan a otros universos✨
 
 - 👩‍💻 Actualmente trabajando en proyectos con **Spring Boot** y **Angular**
-- 📚 Escribo reseñas de libros en mi blog literario: [Mi rincón lector](https://tu-blog.com)
+- 📚 Escribo reseñas de libros en mi blog literario: [Amerik's Reading Corner](https://amerikg-blog.netlify.app/)
 - 🌍 Siempre soñando con dejar una huella positiva en el mundo
 
 
@@ -41,14 +41,14 @@ También me encanta leer y escribir sobre libros que me transportan a otros univ
 Entre hojas de libros y líneas de código nació **Mi Rincón Lector**,  
 un espacio tranquilo donde comparto mis lecturas favoritas, pensamientos y reseñas.  
 Está diseñado y programado completamente por mí, inspirado en lo simple y lo encantador 🌿📖  
-Puedes visitarlo aquí: [Mi Rincón Lector](https://tu-blog.com)
+Puedes visitarlo aquí: [Amerik's Reading Corner](https://amerikg-blog.netlify.app/)
 
 ---
 
 ### ✨ Portafolio
 
 Aquí puedes ver algunos de mis proyectos más queridos, desde aplicaciones web hasta ideas experimentales:  
-🔗 [https://tu-portafolio.com](https://tu-portafolio.com)
+🔗 [Mi portafolio](https://mi-portafolio-pied-five.vercel.app/)
 
 ---
 
@@ -67,9 +67,9 @@ Si quieres saludar, compartir ideas o colaborar en algún proyecto,
 estoy siempre abierta a conectar con personas creativas y curiosas 🌙✨
 
 - 💌 Correo: [amerikg05@gmail.com](amerikg05@gmail.com)  
-- 🌐 Portafolio: [https://tu-portafolio.com](https://tu-portafolio.com)  
-- 🪄 Blog: [Mi Rincón Lector](https://tu-blog.com)  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+- 🌐 Portafolio: [Mi portafolio](https://mi-portafolio-pied-five.vercel.app/)  
+- 🪄 Blog: [Amerik's Reading Corner](https://amerikg-blog.netlify.app/)
+- 💼 LinkedIn: [America Ruiz Gutierrez](www.linkedin.com/in/america-ruiz-gutierrez-42462113a)  
 
 
 ---
